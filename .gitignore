@@ -21,3 +21,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+packup.sh
+*.tar.gz
